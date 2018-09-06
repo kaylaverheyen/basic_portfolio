@@ -35,7 +35,7 @@ color: grey;
 }
 
 body {
-    background-image: url(/Users/kaylaverheyen/Desktop/hw_1/basic_portfolio/assets/images/cloudy-day.png);
+    background-image: url("/basic_portfolio/assets/images/cloudy-day.png");
     margin: 10px auto;
 }
 .container{
